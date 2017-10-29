@@ -30,6 +30,8 @@ mybatis generator分页插件
 
 
 第二步:添加generatorConfig.xml配置文件
+
+
     1.下载或拷贝 https://github.com/zw201913/mysql-limit-page-plugin/tree/master/src/main/resources 里面的generatorConfig.xml配置文件
     2.将配置文件放在src/main/resources下面,名字要保持一致
     3.按照mybatis generator的规范修改里面的generatorConfig.xml,使配置文件符合自身项目的实际情况
